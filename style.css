@@ -7,7 +7,7 @@
 html, body {
     width: 100vw ;
     height: 100vh;
-    overflow: hidden;
+    overflow: auto;
     background: #a0a0a0;
 }
 
@@ -35,7 +35,7 @@ nav div a {
 .header {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding: 2em;
 }
 
