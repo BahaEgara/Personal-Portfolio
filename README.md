@@ -12,7 +12,7 @@ I am currently a 3rd-year student at Strathmore University pursuing my Bachelor'
 This portfolio is a reflection of my journey, and I hope you enjoy exploring it as much as I enjoyed creating it.
 
 ### 🌟 Highlights of My Work
-//Will add my projects once I'm done with the portfolio
+Will add my projects once I'm done with the portfolio
 
 
 
